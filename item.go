@@ -116,7 +116,7 @@ type Item struct {
 	Name         string    `json:"name"`
 	Type         ItemType  `json:"type,string"`
 	ValueType    ValueType `json:"value_type,string"`
-	DataType     DataType  `json:"data_type,string"`
+	// DataType     DataType  `json:"data_type,string"`
 	Delta        DeltaType `json:"delta,string"`
 	Description  string    `json:"description"`
 	Error        string    `json:"error,omitempty"`

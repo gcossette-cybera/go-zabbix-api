@@ -1,3 +1,3 @@
-module github.com/kgeroczi/go-zabbix-api
+module github.com/gcossette-cybera/go-zabbix-api
 
 go 1.20

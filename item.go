@@ -77,19 +77,19 @@ const (
 	Text ValueType = 4
 )
 
-// const (
-// 	// Data type of the item
-// 	// see "data_type" in https://www.zabbix.com/documentation/3.2/manual/api/reference/item/object
+const (
+	// Data type of the item
+	// see "data_type" in https://www.zabbix.com/documentation/3.2/manual/api/reference/item/object
 
-// 	// Decimal data (default)
-// 	Decimal DataType = 0
-// 	// Octal data
-// 	Octal DataType = 1
-// 	// Hexadecimal data
-// 	Hexadecimal DataType = 2
-// 	// Boolean data
-// 	Boolean DataType = 3
-// )
+	// Decimal data (default)
+	Decimal DataType = 0
+	// Octal data
+	Octal DataType = 1
+	// Hexadecimal data
+	Hexadecimal DataType = 2
+	// Boolean data
+	Boolean DataType = 3
+)
 
 const (
 	// Value that will be stored

@@ -11,7 +11,7 @@ type (
 	// ValueType type of information of the item
 	ValueType int
 	// DataType data type of the item
-	// DataType int
+	DataType int
 	// DeltaType value that will be stored
 	DeltaType int
 )
